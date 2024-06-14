@@ -1,5 +1,5 @@
 # FlappyBee
-Este es un proyecto final en grupo para la materia de desarrollo de software.
+Este es un proyecto final en grupo.
 ## Controls
 Spacekey and mouse click
 

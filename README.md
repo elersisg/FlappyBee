@@ -1,5 +1,5 @@
 # FlappyBee
-Este es un proyecto en grupo.
+This is a final group project
 ## Controls
 Spacekey and mouse click
 
